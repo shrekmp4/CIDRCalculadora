@@ -15,19 +15,19 @@ Esta es una calculadora simple en Python que te permite obtener información rel
    ```bash
    git clone https://github.com/shrek.mp4/CIDRAutoPy.git
 
-Instala las bibliotecas requeridas:
+2. Instala las bibliotecas requeridas:
    ```bash
    pip install ipaddress colorama
 
-Ejecuta el script:
+3. Ejecuta el script:
 
    ```bash
    python calculadora_redes.py
 
-Sigue las instrucciones para ingresar la dirección IP de la red y el número de hosts.
+4. Sigue las instrucciones para ingresar la dirección IP de la red y el número de hosts.
 
 
-Ejemplo de Salida
+5. Ejemplo de Salida
 
    ```bash
    Introduce la IP de red: 192.168.1.0
@@ -40,4 +40,4 @@ Ejemplo de Salida
    Direcciones utilizables: 30
    Direcciones desperdiciadas: 7
 
-Apoya el proyecto presionando ⭐
+6. Apoya el proyecto presionando ⭐
